@@ -18,8 +18,13 @@
 ## Extended Syntax
 |Element|Markdown Syntax|
 |-------|---------------|
-|Table|`| Syntax | Description |` <br> `| ----------- | ----------- |` <br> `| Header | Title |` <br> `| Paragraph | Text |` |
-|||
+|Table|![](Screenshot_2021-05-29-13-51-06-45.jpg)|
+|Heading ID|`### My Great Heading` <br> `{#custom-id}`|
+|Fenced Code Block|![](Screenshot_2021-05-29-13-55-08-92.jpg)|
+|Task List|`- [x] Write the press release` <br> `- [ ] Update the website` <br> `- [ ] Contact the media`|
+|Strikethrough|`~~The world is flat.~~`|
+
+
 
 
 ### Heading
