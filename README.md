@@ -102,7 +102,7 @@ Here's a sentence with a footnote. [^1]
 
 ### Heading ID
 
-### My Great Heading {#custom-id}
+My Great Heading {#custom-id}
 
 ### Definition List
 
