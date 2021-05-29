@@ -71,7 +71,7 @@
 
 ### Image
 
-![alt text](image.jpg)
+![alt text](https://images.app.goo.gl/Dh1B2RA5Y1WeT8Lu6)
 
 ## Extended Syntax
 
