@@ -1,4 +1,7 @@
 # Markdown Cheat Sheet
+
+## Basic Syntax
+
 |Element|Markdown Syntax|
 |-------|---------------|
 |Heading|`# h1` <br> `## h2` <br> `### h3`|
@@ -7,13 +10,17 @@
 |Blockquote|`> blockquote`|
 |Ordered list|`1. First item` <br> `2. Second item` <br> `3. Third item`|
 |Unordered list|`- First item` <br> `- Second item` <br> `- Third item`|
-|Code|![]() |
-|||
+|Code|![](Screenshot_2021-05-29-13-32-11-77.jpg)|
+|Horizontal rule|`---`|
+|Link|`[profile](https://github.com/tanzilamd)`|
+|Image|`![image title](image.jpg)`|
+
+## Extended Syntax
+|Element|Markdown Syntax|
+|-------|---------------|
+|Table|`| Syntax | Description |` <br> `| ----------- | ----------- |` <br> `| Header | Title |` <br> `| Paragraph | Text |` |
 |||
 
-## Basic Syntax
-
-These are the elements outlined in John Gruberâ€™s original design document. All Markdown applications support these elements.
 
 ### Heading
 
