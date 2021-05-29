@@ -1,6 +1,16 @@
 # Markdown Cheat Sheet
 |Element|Markdown Syntax|
 |-------|---------------|
+|Heading|`# h1` <br> `## h2` <br> `### h3`|
+|Bold|`**bold text**`|
+|Italic|`*italic text*`|
+|Blockquote|`> blockquote`|
+|Ordered list|`1. First item` <br> `2. Second item` <br> `3. Third item`|
+|Unordered list|`- First item` <br> `- Second item` <br> `- Third item`|
+
+|||
+|||
+|||
 
 ## Basic Syntax
 
