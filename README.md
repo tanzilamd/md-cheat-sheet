@@ -7,8 +7,7 @@
 |Blockquote|`> blockquote`|
 |Ordered list|`1. First item` <br> `2. Second item` <br> `3. Third item`|
 |Unordered list|`- First item` <br> `- Second item` <br> `- Third item`|
-
-|||
+|Code|![]() |
 |||
 |||
 
