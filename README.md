@@ -1,4 +1,6 @@
 # Markdown Cheat Sheet
+|Element|Markdown Syntax|
+|-------|---------------|
 
 ## Basic Syntax
 
